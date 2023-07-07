@@ -1,1 +1,1 @@
-My first 0x00. Shell, basics  DevOps   Shell  Bash readme
+0. Where am I? i am working now
